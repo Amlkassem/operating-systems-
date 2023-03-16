@@ -1,6 +1,7 @@
 # operating-systems-
 ## SJF
 Shortest job first depends on the average running time of the processes. The accurate estimates of these measures help in the implementation of the shortest job first in an environment, which otherwise makes the same nearly impossible to implement. This is because often the execution burst of processes does not happen beforehand. It can be used in interactive environments where past patterns are available to determine the average time between the waiting time and the commands. Although it is disadvantageous to use the shortest-job-first concept in short-term CPU scheduling, it is considered highly advantageous in long-term CPU scheduling. Moreover, the throughput is high in the case of shortest job first.
+
 ![My_Image](SJF.png)
 
 ## RoundRobin
@@ -8,5 +9,5 @@ Round-robin scheduling allocates each task an equal share of the CPU time. In it
 
 ## RoundRobin Without Arrival Time
 ![My_Image](RRwithoutAT.png)
-## RoundRobin eith Arrival Time
+## RoundRobin with Arrival Time
 ![My_Image](RRwithArrivalTime.png)
