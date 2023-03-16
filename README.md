@@ -7,7 +7,8 @@ Shortest job first depends on the average running time of the processes. The acc
 ## RoundRobin
 Round-robin scheduling allocates each task an equal share of the CPU time. In its simplest form, tasks are in a circular queue and when a task's allocated CPU time expires, the task is put to the end of the queue and the new task is taken from the front of the queue. Round-robin scheduling is not very satisfactory in many real-time applications where each task can have varying amounts of CPU requirements depending upon the complexity of processing required. One variation of the pure round-robin scheduling is to provide priority-based scheduling, where tasks with the same priority levels receive equal amounts of CPU time.
 
-## RoundRobin Without Arrival Time
+## RoundRobin Without Arrival Time 
+https://github.com/Amlkassem/operating-systems-/tree/main/RRwithArrivalTime
 ![My_Image](RRwithoutAT.png)
 ## RoundRobin with Arrival Time
 ![My_Image](RRwithArrivalTime.png)
