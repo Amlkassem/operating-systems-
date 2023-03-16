@@ -11,7 +11,7 @@ Round-robin scheduling allocates each task an equal share of the CPU time. In it
 ## RoundRobin Without Arrival Time 
 
 https://github.com/Amlkassem/operating-systems-/blob/main/RRwithoutArrivalTime/src/RR/RR.java
-RR.java
+
 ![My_Image](RRwithoutAT.png)
 ## RoundRobin with Arrival Time 
 
